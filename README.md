@@ -2,7 +2,7 @@ HATE competitive programming
 
 What I can do:
   - C# & WPF
-  - pure C & low-level programming (a bit)
+  - pure C & low-level programming (a little bit)
 
 What I have interested in (except above things):
   - C++ & Qt
