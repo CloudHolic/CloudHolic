@@ -12,4 +12,4 @@ What I have interested in (except above things):
 
 Well... someday I can do it...
 
-[![CloudHolic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudHolic)]
+![CloudHolic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudHolic&count_private=true&show_icons=true)
