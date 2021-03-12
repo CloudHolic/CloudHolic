@@ -11,3 +11,5 @@ What I have interested in (except above things):
   - Angular & Typescript
 
 Well... someday I can do it...
+
+[![CloudHolic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudHolic)]
