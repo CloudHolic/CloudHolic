@@ -9,6 +9,7 @@ What I have interested in (except above things):
   - C#-based 2d game library (e.g., Monogame or Duality)
   - Blazor & ASP.NET
   - Angular & Typescript
+  - Xamarin
 
 Well... someday I can do it...
 
