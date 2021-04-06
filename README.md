@@ -11,6 +11,7 @@ What I have interested in (except above things):
   - Blazor & ASP.NET
   - Angular & Typescript
   - Xamarin or other Android Development
+  - GoLang
 
 Well... someday I can do it...
 
