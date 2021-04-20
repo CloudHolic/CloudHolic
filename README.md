@@ -1,4 +1,4 @@
-HATE competitive programming
+HATE competitive programming & Java
 
 What I can do:
   - C# & WPF
