@@ -22,4 +22,4 @@ Github Stats
 ------------
 
 ![CloudHolic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudHolic&count_private=true&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudHolic&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudHolic&langs_count=10&layout=compact)
