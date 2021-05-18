@@ -5,14 +5,13 @@ What I can do:
   - C++
   - pure C/ASM & low-level programming (a little bit)
   - FP languages, especially Haskell (a little bit)
-  - React & Electron (Studying!)
+  - Node.js & React & Typescript & Electron (Studying!)
   - Some other languages like Python, Java, etc., if needed.
 
 What I have interested in (except above things):
   - Qt
   - C#-based 2d game library (e.g., Monogame or Duality)
   - Blazor & ASP.NET
-  - Angular & Typescript
   - Xamarin or other Android Development
   - Low-Level Graphics Library, especially Vulkan
   - GoLang
