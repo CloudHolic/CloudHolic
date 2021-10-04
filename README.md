@@ -11,7 +11,7 @@ What I can do:
 What I have interested in (except above things):
   - Qt
   - C#-based 2d game library (e.g., Monogame or Duality)
-  - Ruby on Rails
+  - fastapi
   - Blazor & ASP.NET
   - Xamarin or other Android Development
   - Low-Level Graphics Library, especially Vulkan
