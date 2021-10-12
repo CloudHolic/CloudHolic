@@ -9,13 +9,12 @@ What I can do:
   - Some other languages like Python, Ruby, Java, etc., if needed.
 
 What I have interested in (except above things):
-  - Qt
-  - C#-based 2d game library (e.g., Monogame or Duality)
+  - C#-based 2d game library (e.g., Unity, Monogame, or Duality)
+  - GoLang
   - fastapi
   - Blazor & ASP.NET
   - Xamarin or other Android Development
   - Low-Level Graphics Library, especially Vulkan
-  - GoLang
 
 Well... someday I can do it...
 
