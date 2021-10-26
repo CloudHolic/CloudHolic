@@ -29,4 +29,6 @@ Github Stats
 ------------
 
 New to CP!
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={cloudholic})](https://solved.ac/{cloudholic})
+<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={cloudholic})
