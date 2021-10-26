@@ -1,4 +1,5 @@
 I really HATE Java
+
 New to CP!
 
 What I can do:
