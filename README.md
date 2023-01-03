@@ -15,6 +15,7 @@ What I have interested in (except above things):
   - Blazor & ASP.NET
   - Xamarin or other Android Development
   - Low-Level Graphics Library, especially Vulkan
+  - Quantum computing with Q#
 
 Well... someday I can do it...
 
