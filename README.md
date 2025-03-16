@@ -1,5 +1,3 @@
-I really HATE Java
-
 What I can do:
   - C# & WPF
   - C++
