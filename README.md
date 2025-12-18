@@ -7,6 +7,7 @@ What I can do:
   - Some other languages like Python, Ruby, Java, etc., if needed.
 
 What I have interested in (except above things):
+  - Machine Learning
   - C#-based 2d game library (e.g., Unity, Monogame, or Duality)
   - GoLang
   - fastapi
